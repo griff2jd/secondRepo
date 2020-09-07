@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>Beginner stuff</description>
   <maintainer email="griff2jd@dukes.jmu.edu">griff2jd</maintainer>
-  <license>Open Source baby!</license>
+  <license>Open source dood!</license>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
